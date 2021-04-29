@@ -1,1 +1,1 @@
-# Sociall
+# This is an internal college social media application.
